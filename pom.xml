@@ -11,6 +11,8 @@
   <modules>
     <module>longest_common_prefix</module>
     <module>find_first_duplicate</module>
+      <module>simple_linkedlist</module>
+      <module>calculate_sum_in_string</module>
   </modules>
   <dependencies>
     <dependency>
